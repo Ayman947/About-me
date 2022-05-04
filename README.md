@@ -1,7 +1,6 @@
-# About-me
 
 <h1 align="center">Hi 👋, I'm Ayman Altaweel</h1>
-<h3 align="center">A Marketing & Financial Data Scientist</h3>
+<h3 align="center">Marketing & Financial Data Scientist</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ayman947](https://github.com/Ayman947)
 
